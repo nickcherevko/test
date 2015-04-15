@@ -1,0 +1,6 @@
+/web/bundles/sensiodistribution/
+/web/bundles/framework/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
